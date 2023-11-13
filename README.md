@@ -11,3 +11,7 @@ The experiment is only being run on the mobile website.
 GloBox stores its data in a relational database, which you can access here:
 
 (postgres://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Globox)
+![Alt Text](https://github.com/Fitasdj/A-B-Testing-Analysis/blob/main/DataSet.png)
+
+### Summary
+A/B testing was carried out for a landing page banner displaying food and product categories. In the trial, users were placed into two groups: A and B, which acted as the control and treatment, respectively. Tracking the proper data for each group, such as conversion rates and spending amounts, to evaluate how effective the banner is during a specific time period
