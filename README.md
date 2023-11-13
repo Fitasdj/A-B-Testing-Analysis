@@ -46,3 +46,7 @@ The following is apparent from the figures below:
  1. The majority of consumers who converted in group A had made purchases between $40 and $50
  2. The greatest proportion of group B customers who converted made purchases between $30 and $40
  3. In conclusion, consumers in the control group spent more on average than those in the treatment group, which may be due to the category and type of product they purchased.
+
+![Alt Text](https://github.com/Fitasdj/A-B-Testing-Analysis/blob/main/Distribution.png)
+
+The distributions for both groups are right-skewed (mean >mode>median), indicating that users tend to spend less on their purchases, with those who spent more than $200 representing outliers.
