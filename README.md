@@ -32,10 +32,17 @@ We did not notice a significant difference between group A (3.37$) and group B (
 ![Alt Text](https://github.com/Fitasdj/A-B-Testing-Analysis/blob/main/User%20Conversion%20Rate%20%26%20Amount%20Spent.png)
 
 ## CONFIDENCE INTERVAL FOR DIFFERENCE IN CONVERSION RATE
-The difference between the control and treatment groups, calculated at 0.71%, lies within the 95% confidence interval for conversion rates of between 0.35% and 1.07%.
-
-
+The difference between the control and treatment groups, calculated at 0.71%, lies within the 95% confidence interval for conversion rates of between 0.35% and 1.07%.                                               
 ![Alt Text](https://github.com/Fitasdj/A-B-Testing-Analysis/blob/main/CR1.png)
 
 ## CONFIDENCE INTERVAL FOR DIFFERENCE IN AMOUNT SPENT
 The determined 0.02$ difference between the control and treatment groups is within the 95% confidence interval for average amount spent of -0.44$ to 0.47$.
+
+![Alt Text](https://github.com/Fitasdj/A-B-Testing-Analysis/blob/main/CR2.png)
+
+## AVERAGE AMOUNT SPENT PER USER FOR EACH GROUP
+The following is apparent from the figures below:
+
+ 1. The majority of consumers who converted in group A had made purchases between $40 and $50
+ 2. The greatest proportion of group B customers who converted made purchases between $30 and $40
+ 3. In conclusion, consumers in the control group spent more on average than those in the treatment group, which may be due to the category and type of product they purchased.
