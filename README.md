@@ -15,3 +15,15 @@ GloBox stores its data in a relational database, which you can access here:
 
 ### Summary
 A/B testing was carried out for a landing page banner displaying food and product categories. In the trial, users were placed into two groups: A and B, which acted as the control and treatment, respectively. Tracking the proper data for each group, such as conversion rates and spending amounts, to evaluate how effective the banner is during a specific time period
+
+
+![Alt Text](https://github.com/Fitasdj/A-B-Testing-Analysis/blob/main/Interface.png)
+
+### Experimet Context 
+We intended to do A/B testing and make business decisions based on the results in order to determine if the food and beverages banner would be featured on the app. Assigning users equally to control and treatment groups and tracking their purchasing activities with the option to convert after seeing the banner.
+The conversion rate, defined as the percentage of users who made a purchase during the experiment, and the amount spent per user were deemed critical metrics and recorded for each individual between January 25th and February 6th, with a total number of users reaching 49k divided 50/50 to each group.
+
+# Hypothesis Testing Results 
+The sample user analysis revealed an 18% increase in conversions and a 0.6% increase in total amount spent, indicating that the banner did not influence as many users to convert as anticipated.
+Based on our sample size and the results of the hypothesis testing performed on the data we gathered, we found that the conversion rate for Group A was 3.92% and for Group B it was 4.63% with an 18% lift. Statistically, this result is very significant, with a p-value of 0.0001. We find no evidence to support the premise that the control and treatment groups had similar user conversion rates (reject the null hypothesis).
+We did not notice a significant difference between group A (3.37$) and group B (3.39$) in terms of average expenditures. The significance level of the p value for the test of the hypothesis was 0.94%. Concluding that no significant difference in average spending between the control and treatment groups, hence the null hypothesis is not rejected.
