@@ -1,4 +1,8 @@
 # A/B-Testing-Analysis (Experimenting a New Food & Drink Landing Page Banner)
+# TLDR 
+### Recommendation
+The new app version increased conversions by 18%; hence, the updated app interface should be released to the public.
+
 ## Table of Contents
 - [Objective](#objective)
 - [Results and Analysis](#results-and-analysis)
