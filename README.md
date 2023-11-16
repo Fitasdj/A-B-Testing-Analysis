@@ -1,8 +1,15 @@
-# A-B-Testing-Analysis
-## Objective: Experimenting a New Food & Drink Landing Page Banner
+# A/B-Testing-Analysis (Experimenting a New Food & Drink Landing Page Banner)
+## Table of Contents
+- [Objective](#objective)
+- [Results and Analysis](#results-and-analysis)
+- [Recommendation](#recommendation)
+- [SQL Appendix](#sql-appendix)
+- [Tableau Dashboard](#tableau-dashboard)
+- [SpreadSheet Analysis](#spreadsheet-analysis)  
+## Objective
 An A/B test is an experimentation technique used by businesses to compare two versions of a webpage, advertisement, or product feature to determine which one performs better. By randomly assigning customers or users to either the A or B version, the business can determine which version is more effective at achieving a particular goal.
 The setup of the A/B test is as follows:
-### A/B Testing Steps:
+### A/B Testing Steps
 The experiment is only being run on the mobile website.
   1. A user visits the GloBox main page and is randomly assigned to either the control or test group. This is the join date for the user.
   2. The page loads the banner if the user is assigned to the test group and does not load the banner if the user is assigned to the control group.
@@ -23,7 +30,7 @@ A/B testing was carried out for a landing page banner displaying food and produc
 ### Experiment with Context 
 We intended to do A/B testing and make business decisions based on the results in order to determine if the food and beverage banner would be featured on the app. Assigning users equally to control and treatment groups and tracking their purchasing activities with the option to convert after seeing the banner.The conversion rate, defined as the percentage of users who made a purchase during the experiment, and the amount spent per user were deemed critical metrics and recorded for each individual between January 25th and February 6th, with a total number of users reaching 49k divided 50/50 to each group.
 
-# Result and Analysis    
+# Results and Analysis    
 
 ## Hypothesis Testing Results 
 The sample user analysis revealed an 18% increase in conversions and a 0.6% increase in total amount spent, indicating that the banner did not influence as many users to convert as anticipated.
@@ -62,9 +69,7 @@ The device analysis in the figure leads us to the following conclusion:
 ### ΙΙ. Gender
 By analyzing the gender relationship to the metrics, the following can be determined:
 1. Female users have the highest conversion rate when compared to male users.
-
 2. A significant decrease in expenditures by female treatment group consumers
-
 3. The male conversion rate and amount spent are the highest, at 44% and 15.5%, respectively.
 4. Female consumers are more likely to convert than males.
 
@@ -184,12 +189,9 @@ from groups g
 where "group" = 'B')
 from b
 ```
-# Links :
-
-- Spreadsheet containing statistical analysis for hypothesis testing and 95% confidence interval
-
-    https://docs.google.com/spreadsheets/d/1QXULeQLZJfD_nTECG7_VREsxb9X1Lk92St76OPhIrow/edit?usp=sharing
-
+# Tableau Dashboard 
 - Tableau illustrating the different plots for the analysis:
-
    https://public.tableau.com/app/profile/djamel.fitas/viz/GloBoxABTestingAnalysis/GloBoxAnalysis
+ # SpreadSheet Analysis 
+ - Spreadsheet containing statistical analysis for hypothesis testing and 95% confidence interval
+    https://docs.google.com/spreadsheets/d/1QXULeQLZJfD_nTECG7_VREsxb9X1Lk92St76OPhIrow/edit?usp=sharing
