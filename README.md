@@ -55,5 +55,15 @@ The distributions for both groups are right-skewed (mean >mode>median), indicati
 The device analysis in the figure leads us to the following conclusion:
 1. IOS conversion rate is higher than Android users. However, the increase in conversion for Android consumers is significantly 27%.
 2. Consumers in the control group with IOS devices spent more than those in the treatment group, most likely due to user product interest and purchasing behavior as discussed on the previous slide.
-3. Users with unknown devices had a 100% lift rate despite a negative value of 47% in amount spent lifting, indicating that the treatment group performs less effectively or has a lower response rate than the control group. In other words, the intervention or treatment has a negative effect on the outcome.
+3. Users with unknown devices had a 100% lift rate despite a negative value of 47% in the amount spent lifting, indicating that the treatment group performs less effectively or has a lower response rate than the control group. In other words, the intervention or treatment has a negative effect on the outcome.
+![Alt Text](https://github.com/Fitasdj/A-B-Testing-Analysis/blob/main/User%20Device.png)
+
+# ΙΙ. Gender
+By analyzing the gender relationship to the metrics, the following can be determined:
+1. Female users have the highest conversion rate when compared to male users.
+
+2. A significant decrease in expenditures by female treatment group consumers
+
+3. The male conversion rate and amount spent are the highest, at 44% and 15.5%, respectively.
+4. Female consumers are more likely to convert than males.
 
