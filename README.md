@@ -16,7 +16,7 @@ A/B testing was carried out for a landing page banner displaying food and produc
 
 ## Presentation & Written Report 
 - [Presentation](./Presentation.pdf)
-- [Written Report](./https://github.com/Fitasdj/A-B-Testing-Analysis/blob/4776dba2c4a193f261fb1d66d4a01ba984808d50/Written%20Report.pdf)
+- [Written Report](https://github.com/Fitasdj/A-B-Testing-Analysis/blob/4776dba2c4a193f261fb1d66d4a01ba984808d50/Written%20Report.pdf)
 
 
 # Tableau Dashboard 
